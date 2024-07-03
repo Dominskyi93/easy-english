@@ -1,0 +1,248 @@
+[
+  {
+    "topic": "fruits",
+    "topicTranslate": "фрукти",
+    "words": [
+      {
+        "id": 1,
+        "word": "apple",
+        "translation": "яблуко"
+      },
+      {
+        "id": 2,
+        "word": "banana",
+        "translation": "банан"
+      },
+      {
+        "id": 3,
+        "word": "cherry",
+        "translation": "вишня"
+      },
+      {
+        "id": 4,
+        "word": "date",
+        "translation": "фінік"
+      },
+      {
+        "id": 5,
+        "word": "elderberry",
+        "translation": "бузина"
+      },
+      {
+        "id": 6,
+        "word": "fig",
+        "translation": "інжир"
+      },
+      {
+        "id": 7,
+        "word": "grape",
+        "translation": "виноград"
+      },
+      {
+        "id": 8,
+        "word": "honeydew",
+        "translation": "медова роса (диня)"
+      },
+      {
+        "id": 9,
+        "word": "kiwi",
+        "translation": "ківі"
+      },
+      {
+        "id": 10,
+        "word": "lemon",
+        "translation": "лимон"
+      },
+      {
+        "id": 11,
+        "word": "lime",
+        "translation": "лайм"
+      },
+      {
+        "id": 12,
+        "word": "mango",
+        "translation": "манго"
+      },
+      {
+        "id": 13,
+        "word": "nectarine",
+        "translation": "нектарин"
+      },
+      {
+        "id": 14,
+        "word": "orange",
+        "translation": "апельсин"
+      },
+      {
+        "id": 15,
+        "word": "papaya",
+        "translation": "папая"
+      },
+      {
+        "id": 16,
+        "word": "peach",
+        "translation": "персик"
+      },
+      {
+        "id": 17,
+        "word": "pear",
+        "translation": "груша"
+      },
+      {
+        "id": 18,
+        "word": "pineapple",
+        "translation": "ананас"
+      },
+      {
+        "id": 19,
+        "word": "plum",
+        "translation": "слива"
+      },
+      {
+        "id": 20,
+        "word": "pomegranate",
+        "translation": "гранат"
+      },
+      {
+        "id": 21,
+        "word": "quince",
+        "translation": "айва"
+      },
+      {
+        "id": 22,
+        "word": "raspberry",
+        "translation": "малина"
+      },
+      {
+        "id": 23,
+        "word": "strawberry",
+        "translation": "полуниця"
+      },
+      {
+        "id": 24,
+        "word": "tangerine",
+        "translation": "мандарин"
+      },
+      {
+        "id": 25,
+        "word": "watermelon",
+        "translation": "кавун"
+      },
+      {
+        "id": 26,
+        "word": "blueberry",
+        "translation": "чорниця"
+      },
+      {
+        "id": 27,
+        "word": "blackberry",
+        "translation": "ожина"
+      },
+      {
+        "id": 28,
+        "word": "cranberry",
+        "translation": "журавлина"
+      },
+      {
+        "id": 29,
+        "word": "gooseberry",
+        "translation": "агрус"
+      },
+      {
+        "id": 30,
+        "word": "grapefruit",
+        "translation": "грейпфрут"
+      },
+      {
+        "id": 31,
+        "word": "jackfruit",
+        "translation": "джекфрут"
+      },
+      {
+        "id": 32,
+        "word": "lychee",
+        "translation": "лічі"
+      },
+      {
+        "id": 33,
+        "word": "mulberry",
+        "translation": "шовковиця"
+      },
+      {
+        "id": 34,
+        "word": "olive",
+        "translation": "олива"
+      },
+      {
+        "id": 35,
+        "word": "passionfruit",
+        "translation": "пасифлора"
+      },
+      {
+        "id": 36,
+        "word": "persimmon",
+        "translation": "хурма"
+      },
+      {
+        "id": 37,
+        "word": "plantain",
+        "translation": "платан (кулінарний банан)"
+      },
+      {
+        "id": 38,
+        "word": "rhubarb",
+        "translation": "ревінь"
+      },
+      {
+        "id": 39,
+        "word": "starfruit",
+        "translation": "карамбола"
+      },
+      {
+        "id": 40,
+        "word": "tamarind",
+        "translation": "тамаринд"
+      },
+      {
+        "id": 41,
+        "word": "ugli fruit",
+        "translation": "углі фрукт"
+      },
+      {
+        "id": 42,
+        "word": "dragonfruit",
+        "translation": "пітахайя"
+      },
+      {
+        "id": 43,
+        "word": "durian",
+        "translation": "дуріан"
+      },
+      {
+        "id": 44,
+        "word": "kumquat",
+        "translation": "кумкват"
+      },
+      {
+        "id": 45,
+        "word": "longan",
+        "translation": "лонган"
+      },
+      {
+        "id": 46,
+        "word": "loquat",
+        "translation": "мушмула"
+      },
+      {
+        "id": 47,
+        "word": "mangosteen",
+        "translation": "мангостан"
+      },
+      {
+        "id": 48,
+        "word": "rambutan",
+        "translation": "рамбутан"
+      }
+    ]
+  }
+]
